@@ -1,3 +1,41 @@
+<!-- TYPING ANIMATION HEADER -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+there+👋;I'm+Muhammad+Bin+Riaz;AI+Engineer;Full-Stack+Developer;From+Islamabad+🇵🇰" alt="Typing SVG"/>
+</div>
+
+<!-- ANIMATED BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header"/>
+</p>
+
+<!-- BADGES -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=muhammadbinriaz&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/muhammadbinriaz?label=Followers&style=social" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/muhammadbinriaz?label=Stars&style=social" alt="Stars"/>
+</p>
+
+---
+
+## 🌟 **About Me**
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2N5b3JwbnY3bzdudzNzNnFoMnRpcHBuN2ttOXhqdTQyejNib3F3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="200" height="150" alt="Coding GIF"/>
+</p>
+
+👋 **Hello! I'm Muhammad Bin Riaz**  
+🏙️ Living in **Islamabad, Pakistan**  
+🤖 **AI Engineer** & **Full-Stack Developer**  
+💡 Passionate about building intelligent systems  
+🎯 Focused on **RAG Systems**, **LLMs**, and **AI Agents**  
+💬 Ask me about **AI, Python, Full-Stack Development**  
+📧 Reach me at **work@muhammadbinriaz.com**  
+😄 Pronouns: **malik**
+
+---
+
+
+
 ## 🚀 Languages and Tools
 <p align="left"> <!-- Core Languages --> <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/></a> <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/></a> <!-- Frontend -->
 <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/></a>
