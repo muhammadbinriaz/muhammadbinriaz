@@ -95,40 +95,24 @@
 
 ---
 
-## 🌐 Let's Connect - Retro 90s Style! 🕹️
+## 🌐 Let's Connect
 
 <p align="center">
-
-<!-- EMAIL BUTTON -->
-<a href="mailto:work@muhammadbinriaz.com" target="_blank">
-  <img src="https://img.shields.io/badge/📧_EMAIL-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<!-- LINKEDIN BUTTON -->
-<a href="https://linkedin.com/in/muhammadbinriaz" target="_blank">
-  <img src="https://img.shields.io/badge/🔗_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<!-- TWITTER BUTTON -->
-<a href="https://twitter.com/muhammadbinriaz" target="_blank">
-  <img src="https://img.shields.io/badge/🐦_TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-</a>
-
-<!-- GITHUB BUTTON -->
-<a href="https://github.com/muhammadbinriaz" target="_blank">
-  <img src="https://img.shields.io/badge/🐙_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<!-- PORTFOLIO BUTTON -->
-<a href="https://muhammadbinriaz.com" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_PORTFOLIO-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-</a>
-
-<!-- YOUTUBE BUTTON (Optional) -->
-<a href="https://youtube.com/@muhammadbinriaz" target="_blank">
-  <img src="https://img.shields.io/badge/📺_YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-</a>
-
+  <a href="mailto:work@muhammadbinriaz.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/muhammadbinriaz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/muhammadbinriaz" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://github.com/muhammadbinriaz" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://muhammadbinriaz.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
 ---
@@ -137,15 +121,4 @@
 
 <p align="center">
   <i>"Building the future, one algorithm at a time."</i> 🤖✨
-</p>
-
-<!-- RETRO FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=80&section=footer"/>
-</p>
-
-<p align="center">
-  <font face="Courier New" size="2" color="gray">
-    © 2026 Muhammad Bin Riaz | Made with ☕ and 💻
-  </font>
 </p>
