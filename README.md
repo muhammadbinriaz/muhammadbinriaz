@@ -1,12 +1,26 @@
-## Hi there 👋
-My name is Muhammad Bin Riaz and i live in capital of Pakistan Islamabad.
+<h1 align="center">Hi there 👋, I'm Muhammad Bin Riaz</h1>
+<h3 align="center">Full-Stack Developer | AI Enthusiast | Creative Developer from Islamabad, Pakistan 🇵🇰</h3>
 
-- 🔭 I’m currently working on full stack
-- 👯 I’m looking to collaborate on full-stack projects
-- 🤔 I’m an creative developer as well with knowledge of threeJS and webGL
-- 💬 Ask me about AI and full stack
-- 📫 How to reach me: email on work@muhammadbinriaz.com
-- 😄 Pronouns: malik
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=muhammadbinriaz&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/muhammadbinriaz?label=Followers&style=social" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/muhammadbinriaz?label=Stars&style=social" alt="Stars"/>
+</p>
+
+---
+
+## 🌟 About Me
+
+🏙️ **Location:** Islamabad, Pakistan (The Capital!)  
+💼 **Currently:** Working on full-stack development  
+🤝 **Looking to collaborate on:** Full-stack projects  
+🎨 **Creative Developer:** 3D experiences with Three.js & WebGL  
+🧠 **Ask me about:** AI, Full-Stack Development, 3D Web  
+📧 **Email:** work@muhammadbinriaz.com  
+😄 **Pronouns:** malik
+
+---
+
 
 ## 🚀 Languages & Technologies
 
