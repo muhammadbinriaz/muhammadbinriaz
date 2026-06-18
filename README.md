@@ -52,7 +52,6 @@ My name is Muhammad Bin Riaz and i live in capital of Pakistan Islamabad.
   <a href="https://www.sbert.net/" target="_blank"><img src="https://sbert.net/_static/logo.png" width="50" height="50" alt="Sentence Transformers"/></a>
   <a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" height="50" alt="Hugging Face"/></a>
 <img src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" width="50" height="50" alt="OpenAI"/>
-<img src="https://avatars.githubusercontent.com/u/101276672?s=200&v=4" width="50" height="50" alt="Groq"/>
 </p>
 
 ### 🗄️ Databases
@@ -63,8 +62,6 @@ My name is Muhammad Bin Riaz and i live in capital of Pakistan Islamabad.
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB"/></a>
   <a href="https://redis.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50" height="50" alt="Redis"/></a>
   <a href="https://www.sqlite.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" height="50" alt="SQLite"/></a>
-  <a href="https://www.trychroma.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/126688754?s=200&v=4" width="50" height="50" alt="ChromaDB"/></a>
-  <a href="https://www.pinecone.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/42727511?s=200&v=4" width="50" height="50" alt="Pinecone"/></a>
 </p>
 
 ### 🐳 DevOps & Cloud
