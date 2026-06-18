@@ -1,25 +1,51 @@
-<h1 align="center">Hi there 👋, I'm Muhammad Bin Riaz</h1>
-<h3 align="center">Full-Stack Developer | AI Enthusiast | Creative Developer from Islamabad, Pakistan 🇵🇰</h3>
+<!-- GLITCH EFFECT HEADER -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Hi+there+👋;I'm+Muhammad+Bin+Riaz;AI+Engineer;Full-Stack+Developer;From+Islamabad+🇵🇰" alt="Typing SVG"/>
+</div>
 
+<!-- ANIMATED BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+</p>
+
+<!-- GLOWING BADGES -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=muhammadbinriaz&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/muhammadbinriaz?label=Followers&style=social" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/muhammadbinriaz?label=Stars&style=social" alt="Stars"/>
+  <img src="https://img.shields.io/badge/AI-Engineer-00FF88?style=flat&logo=ai&logoColor=white" alt="AI Engineer"/>
+  <img src="https://img.shields.io/badge/Islamabad-Pakistan-00FF88?style=flat&logo=location&logoColor=white" alt="Location"/>
 </p>
 
 ---
 
-## 🌟 About Me
+<!-- CREATIVE ABOUT ME SECTION -->
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2N5b3JwbnY3bzdudzNzNnFoMnRpcHBuN2ttOXhqdTQyejNib3F3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="200" height="150" alt="Coding GIF"/>
+</div>
 
-🏙️ **Location:** Islamabad, Pakistan (The Capital!)  
-💼 **Currently:** Working on full-stack development  
-🤝 **Looking to collaborate on:** Full-stack projects  
-🎨 **Creative Developer:** 3D experiences with Three.js & WebGL  
-🧠 **Ask me about:** AI, Full-Stack Development, 3D Web  
-📧 **Email:** work@muhammadbinriaz.com  
-😄 **Pronouns:** malik
+## 🌟 **Who Am I?**
 
----
+<table>
+<tr>
+<td width="60%">
+
+### 🤖 **AI Engineer | Full-Stack Developer**
+
+```python
+class MuhammadBinRiaz:
+    def __init__(self):
+        self.name = "Muhammad Bin Riaz"
+        self.location = "Islamabad, Pakistan 🇵🇰"
+        self.role = "AI Engineer & Full-Stack Developer"
+        self.pronouns = "malik"
+        self.superpower = "Turning data into intelligence 🧠"
+    
+    def current_focus(self):
+        return "Building AI applications with RAG & LLMs"
+    
+    def daily_grind(self):
+        return ["Python ☕", "AI Models 🤖", "Code 💻", "Coffee ☕"]
 
 
 ## 🚀 Languages & Technologies
