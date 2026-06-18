@@ -58,7 +58,6 @@
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45" height="45" alt="Hugging Face"/>
   <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="45" height="45" alt="LangChain"/>
   <img src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" width="45" height="45" alt="OpenAI"/>
-  <img src="https://avatars.githubusercontent.com/u/101276672?s=200&v=4" width="45" height="45" alt="Groq"/>
 </p>
 
 ### 🗄️ Databases & Vector Stores
@@ -67,9 +66,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
-  <img src="https://avatars.githubusercontent.com/u/126688754?s=200&v=4" width="45" height="45" alt="ChromaDB"/>
-  <img src="https://avatars.githubusercontent.com/u/42727511?s=200&v=4" width="45" height="45" alt="Pinecone"/>
-  <img src="https://avatars.githubusercontent.com/u/33127397?s=200&v=4" width="45" height="45" alt="Weaviate"/>
+
 </p>
 
 ### 🐳 DevOps & Cloud
@@ -77,7 +74,6 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45" height="45" alt="Kubernetes"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45" height="45" alt="AWS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45" height="45" alt="GCP"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" height="45" alt="Azure"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
