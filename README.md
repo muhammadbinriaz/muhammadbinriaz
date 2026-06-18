@@ -54,14 +54,14 @@ My name is Muhammad Bin Riaz and i live in capital of Pakistan Islamabad.
 ### 🧠 AI/ML & RAG Stack
 
 <p align="left">
-  <a href="https://www.langchain.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/langchain/langchain-original.svg" width="50" height="50" alt="LangChain"/></a>
+<img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="50" height="50" alt="LangChain"/>
   <a href="https://www.tensorflow.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50" alt="TensorFlow"/></a>
   <a href="https://pytorch.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" height="50" alt="PyTorch"/></a>
   <a href="https://scikit-learn.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50" alt="Scikit-learn"/></a>
   <a href="https://www.sbert.net/" target="_blank"><img src="https://sbert.net/_static/logo.png" width="50" height="50" alt="Sentence Transformers"/></a>
   <a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" height="50" alt="Hugging Face"/></a>
-  <a href="https://openai.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="50" height="50" alt="OpenAI"/></a>
-  <a href="https://groq.com/" target="_blank"><img src="https://groq.com/wp-content/uploads/2024/03/Groq-Logo.png" width="50" height="50" alt="Groq"/></a>
+<img src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" width="50" height="50" alt="OpenAI"/>
+<img src="https://avatars.githubusercontent.com/u/101276672?s=200&v=4" width="50" height="50" alt="Groq"/>
 </p>
 
 ### 🗄️ Databases
