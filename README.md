@@ -110,11 +110,3 @@
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
-
----
-
-## ✨ Quote
-
-<p align="center">
-  <i>"Building the future, one algorithm at a time."</i> 🤖✨
-</p>
