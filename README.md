@@ -15,7 +15,7 @@
 ---
 
 - 🔭 I’m currently working on **scaling context-aware RAG architectures, building multi-agent task execution loops, and crafting high-performance, responsive interfaces with Next.js and Tailwind.**
-- 🌱 I’m currently learning **deep internals of distributed agent orchestration, advanced prompt engineering patterns, and low-level system performance tuning.**
+- 🌱 I’m currently learning **deep internals of distributed agent orchestration, advanced rag pipelines, and low-level system performance tuning.**
 - 👯 I’m looking to collaborate on **open-source AI tooling, autonomous agent frameworks, or production-grade full-stack applications that need a robust retrieval layer.**
 - 🤝 I’m looking for help with **advanced vector database optimization at scale and fine-tuning open-source LLMs for specialized domain tasks.**
 - 👨‍💻 All of my projects are available at [github.com/muhammadbinriaz](https://github.com/muhammadbinriaz)
