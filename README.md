@@ -22,7 +22,7 @@
 - 📝 I write about **engineering scalable AI systems, bridging traditional full-stack with modern LLM workflows, and building retrieval pipelines.**
 - 💬 Ask me about **building full-stack apps, setting up semantic search pipelines, working with FastAPI and Next.js, or navigating the Islamabad tech community.**
 - 📫 How to reach me: **[muhammadbinriaz675@gmail.com](mailto:muhammadbinriaz675@gmail.com)** or [LinkedIn](https://linkedin.com/in/muhammadbinriaz)
-- 📄 Portfolio: **[muhammadbinriaz.vercel.app](https://muhammadbinriaz.vercel.app/)**
+- 📄 Portfolio: **[muhammadbinriaz.is-a.dev](https://muhammadbinriaz.is-a.dev/)**
 - ⚡ Fun fact: **When I'm not writing code or debugging async Python loops, you can usually find me playing competitive chess or planning my next road trip up north into the mountains.**
 
 ---
