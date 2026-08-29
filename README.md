@@ -2,7 +2,7 @@
   <h1>Hi, I'm Muhammad Bin Riaz</h1>
   <h3>Full-Stack & AI Engineer · RAG Pipelines & Agentic Workflows</h3>
   <p>
-    <a href="https://muhammadbinriaz.netlify.app">portfolio</a>
+    <a href="https://muhammadbinriaz.is-a.dev/">portfolio</a>
     ·
     <a href="mailto:muhammadbinriaz675@gmail.com">email</a>
     ·
